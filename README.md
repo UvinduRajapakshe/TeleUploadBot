@@ -1,5 +1,5 @@
 ## Tele Upload Bot
-#### A simple telegram bot made using telethon library. Can be found on telegram as [@JETeleUploadBot](https://t.me/JETeleUploadBot)
+#### A simple telegram bot made using telethon library. Can be found on telegram as [@UBTeleUploadBot](https://t.me/UBTeleUploadBot)
 
 ### Features
 
