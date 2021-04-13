@@ -107,7 +107,7 @@ async def tsh(event):
             download_link, final_date, size = await send_to_transfersh_async(file_path)
 
             zaman = str(time.time() - start)
-            await orta.edit(f"File Successfully Uploaded to TransferSh.\n\n🔗 Link  {download_link}\n📅 Expired Date {final_date}\n\nBy @Infinity_BOTs")
+            await orta.edit(f"File Successfully Uploaded to TransferSh.\n\n🔗 Link  {download_link}\n📅 Expired Date {final_date}\n\n~By @UvinduBro 🇱🇰 ~")
         except Exception as e:
             traceback.print_exc()
             print(e)
