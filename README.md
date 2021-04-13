@@ -1,5 +1,5 @@
-## Tele Upload Bot
-#### A simple telegram bot made using telethon library. Can be found on telegram as [@UBTeleUploadBot](https://t.me/UBTeleUploadBot)
+### Tele Upload Bot
+## A simple telegram bot made using telethon library. Can be found on telegram as [@UBTeleUploadBot](https://t.me/UBTeleUploadBot)
 
 ### Features
 
@@ -7,10 +7,10 @@
 
 - [x] TransferSh Uploader
 
-### Host Bot
-#### Deploy to Heroku:
+### Deploy to Heroku 🏃‍♂
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/TeleUploadBot)
+
 #### Deploy to VPS:
 
 ```
